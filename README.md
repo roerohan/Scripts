@@ -13,4 +13,4 @@ Necessary scripts pertaining to various tasks.
  
  # Contributing
  
- Check out [CONTRIBUTING.md](https://github.com/roerohan/blob/master/CONTRIBUTING.md)
+ Check out [CONTRIBUTING.md](https://github.com/csivitu/blob/master/CONTRIBUTING.md)
